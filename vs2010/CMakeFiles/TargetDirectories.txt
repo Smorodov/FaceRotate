@@ -1,0 +1,3 @@
+C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/ALL_BUILD.dir
+C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/ImageTresholding.dir
+C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/ZERO_CHECK.dir

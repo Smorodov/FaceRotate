@@ -1,0 +1,213 @@
+The system is: Windows - 6.1 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: CompilerIdC, Configuration: Debug x64 ------
+1>Build started 31.08.2013 19:18:37.
+1>InitializeBuildStatus:
+1>  Creating "Debug\CompilerIdC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  CMakeCCompilerId.c
+1>Link:
+1>  CompilerIdC.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\2.8.11.2\CompilerIdC\.\CompilerIdC.exe
+1>PostBuildEvent:
+1>  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\cl.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\CompilerIdC.unsuccessfulbuild".
+1>  Touching "Debug\CompilerIdC.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:01.33
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj.user"
+
+The C compiler identification is MSVC, found in "C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/2.8.11.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: CompilerIdCXX, Configuration: Debug x64 ------
+1>Build started 31.08.2013 19:18:39.
+1>InitializeBuildStatus:
+1>  Creating "Debug\CompilerIdCXX.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  CMakeCXXCompilerId.cpp
+1>Link:
+1>  CompilerIdCXX.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\2.8.11.2\CompilerIdCXX\.\CompilerIdCXX.exe
+1>PostBuildEvent:
+1>  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\cl.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\CompilerIdCXX.unsuccessfulbuild".
+1>  Touching "Debug\CompilerIdCXX.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.40
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj.user"
+
+The CXX compiler identification is MSVC, found in "C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/2.8.11.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec4006157401
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec4006157401, Configuration: Debug x64 ------
+1>Build started 31.08.2013 19:18:41.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec4006157401.dir\Debug\cmTryCompileExec4006157401.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec4006157401.dir\Debug\\" /Fd"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec4006157401.pdb" /Gd /TC /errorReport:prompt testCCompiler.c
+1>  
+1>  testCCompiler.c
+1>Link:
+1>  cmTryCompileExec4006157401.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec4006157401.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec4006157401.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec4006157401.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec4006157401.dir\Debug\cmTryCompileExec4006157401.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec4006157401.dir\Debug\cmTryCompileExec4006157401.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:01.46
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3009300801
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec3009300801, Configuration: Debug x64 ------
+1>Build started 31.08.2013 19:18:43.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec3009300801.dir\Debug\cmTryCompileExec3009300801.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3009300801.dir\Debug\\" /Fd"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3009300801.pdb" /Gd /TC /errorReport:prompt "..\..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>  
+1>  CMakeCCompilerABI.c
+1>Link:
+1>  cmTryCompileExec3009300801.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3009300801.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec3009300801.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3009300801.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec3009300801.dir\Debug\cmTryCompileExec3009300801.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec3009300801.dir\Debug\cmTryCompileExec3009300801.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.90
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2814373910
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec2814373910, Configuration: Debug x64 ------
+1>Build started 31.08.2013 19:18:45.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec2814373910.dir\Debug\cmTryCompileExec2814373910.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2814373910.dir\Debug\\" /Fd"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2814373910.pdb" /Gd /TP /errorReport:prompt testCXXCompiler.cxx
+1>  
+1>  testCXXCompiler.cxx
+1>Link:
+1>  cmTryCompileExec2814373910.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2814373910.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec2814373910.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2814373910.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec2814373910.dir\Debug\cmTryCompileExec2814373910.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec2814373910.dir\Debug\cmTryCompileExec2814373910.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.84
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec199018110
+
+Microsoft (R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ Build started: Project: cmTryCompileExec199018110, Configuration: Debug x64 ------
+1>Build started 31.08.2013 19:18:47.
+1>PrepareForBuild:
+1>  Creating directory "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\".
+1>InitializeBuildStatus:
+1>  Creating "cmTryCompileExec199018110.dir\Debug\cmTryCompileExec199018110.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec199018110.dir\Debug\\" /Fd"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec199018110.pdb" /Gd /TP /errorReport:prompt "..\..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>Link:
+1>  cmTryCompileExec199018110.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec199018110.exe
+1>LinkEmbedManifest:
+1>  cmTryCompileExec199018110.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec199018110.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "cmTryCompileExec199018110.dir\Debug\cmTryCompileExec199018110.unsuccessfulbuild".
+1>  Touching "cmTryCompileExec199018110.dir\Debug\cmTryCompileExec199018110.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.89
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+
+

@@ -1,0 +1,12 @@
+﻿Build started 31.08.2013 21:37:47.
+     1>Project "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\ZERO_CHECK.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild".
+         Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.lastbuildstate".
+     1>Done Building Project "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\ZERO_CHECK.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16

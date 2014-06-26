@@ -1,0 +1,43 @@
+﻿Build started 31.08.2013 21:09:27.
+     1>Project "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\ImageTresholding.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "ImageTresholding.dir\Debug\FaceRotate.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate" /I"c:/Users/ANDREY/Documents/Visual Studio 2010/Projects/Opencv_64_install/include" /I"c:/Users/ANDREY/Documents/Visual Studio 2010/Projects/Opencv_64_install/include/opencv" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"ImageTresholding.dir\Debug\\" /Fd"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/Debug/ImageTresholding.pdb" /Gd /TP /errorReport:prompt ..\main.cpp
+         main.cpp
+     1>..\main.cpp(20): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>..\main.cpp(110): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>..\main.cpp(113): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>..\main.cpp(117): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>..\main.cpp(120): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>..\main.cpp(130): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>..\main.cpp(130): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>..\main.cpp(179): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>..\main.cpp(187): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(187): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\main.cpp(191): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>..\main.cpp(191): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\Debug\ImageTresholding.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_bioinspired290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_calib3d290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_contrib290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_core290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_cudev290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_features2d290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_flann290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpu290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpuarithm290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpubgsegm290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpucodec290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpufeatures2d290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpufilters290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpuimgproc290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpulegacy290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpuoptflow290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpustereo290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_gpuwarping290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_highgui290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_imgproc290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_legacy290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_ml290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_nonfree290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_objdetect290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_optim290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_photo290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_softcascade290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_stitching290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_superres290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_ts290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_video290d.lib" "c:\Users\ANDREY\Documents\Visual Studio 2010\Projects\Opencv_64_install\lib\opencv_videostab290d.lib" glu32.lib opengl32.lib /MANIFEST /ManifestFile:"ImageTresholding.dir\Debug\ImageTresholding.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/Debug/ImageTresholding.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ANDREY/Documents/Visual Studio 2010/Projects/FACE_PROGS/FaceRotate/vs2010/Debug/ImageTresholding.lib" /MACHINE:X64 ImageTresholding.dir\Debug\ImageTresholding.exe.embed.manifest.res
+         ImageTresholding.dir\Debug\AffineWarper.obj
+         ImageTresholding.dir\Debug\main.obj
+         ImageTresholding.dir\Debug\triangle.obj  /machine:x64 /debug 
+         ImageTresholding.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\Debug\ImageTresholding.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"ImageTresholding.dir\Debug\ImageTresholding.exe.embed.manifest" /manifest ImageTresholding.dir\Debug\ImageTresholding.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         ImageTresholding.vcxproj -> C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\Debug\ImageTresholding.exe
+       FinalizeBuildStatus:
+         Deleting file "ImageTresholding.dir\Debug\FaceRotate.unsuccessfulbuild".
+         Touching "ImageTresholding.dir\Debug\FaceRotate.lastbuildstate".
+     1>Done Building Project "C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\FACE_PROGS\FaceRotate\vs2010\ImageTresholding.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.53
